@@ -1,10 +1,4 @@
 # libppm
 
-1) fork the project
-
-2) push an existing repository from the command line
-
-```
-git remote add origin git@github.com:USERNAME/libppm.git
-git push -u origin master
-```
+### for you teacher
+Please, go to this repo, we began working on the project before discovering your repo and we just can't pull it from ours
